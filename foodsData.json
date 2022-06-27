@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Cabbage salad",
+    "price": 10.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": {
+      "rate": 3.9,
+      "size": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Beef Burger",
+    "price": 22.3,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "image": "https://img.freepik.com/free-photo/hamburger-with-beef-meat-burger-fresh-vegetables-dark-surface_2829-5883.jpg?size=626&ext=jpg",
+    "rating": {
+      "rate": 4.1,
+      "size": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Baked chicken",
+    "price": 5.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style_2829-10159.jpg?size=626&ext=jpg",
+    "rating": {
+      "rate": 4.7,
+      "size": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Cooked food",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "image": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "rating": {
+      "rate": 2.1,
+      "size": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "Super cake",
+    "price": 65,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "rating": {
+      "rate": 4.6,
+      "size": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "Giant shrimps",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://img.freepik.com/free-photo/raw-giant-shrimps-dark-table_1220-4998.jpg?size=626&ext=jpg",
+    "rating": {
+      "rate": 3.9,
+      "size": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "Fried chicken",
+    "price": 9.99,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "image": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27379.jpg?size=626&ext=jpg",
+    "rating": {
+      "rate": 3,
+      "size": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Hummus",
+    "price": 10.99,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "image": "https://img.freepik.com/free-photo/top-view-colorful-hummus_23-2149447797.jpg?size=626&ext=jpg",
+    "rating": {
+      "rate": 1.9,
+      "size": 100
+    }
+  },
+  {
+    "id": 9,
+    "title": "Flat lay batch",
+    "price": 64,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "electronics",
+    "image": "https://img.freepik.com/free-photo/flat-lay-batch-cooking-composition_23-2148765597.jpg?size=626&ext=jpg",
+    "rating": {
+      "rate": 3.3,
+      "size": 203
+    }
+  }
+]
