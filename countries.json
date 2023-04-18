@@ -124,6 +124,8 @@
   { "country": "Myanmar", "region": "Asia" },
   { "country": "Namibia", "region": "Africa" },
   { "country": "Nauru", "region": "Oceania" },
-  { "country": "Nepal", "region": "Asia" }
+  { "country": "Nepal", "region": "Asia" },
+  { "country": "United States", "region": "North America" },
+  { "country": "United Kingdom", "region": "Europe" },
 ]
 }
