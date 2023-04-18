@@ -126,6 +126,6 @@
   { "country": "Nauru", "region": "Oceania" },
   { "country": "Nepal", "region": "Asia" },
   { "country": "United States", "region": "North America" },
-  { "country": "United Kingdom", "region": "Europe" },
+  { "country": "United Kingdom", "region": "Europe" }
 ]
 }
